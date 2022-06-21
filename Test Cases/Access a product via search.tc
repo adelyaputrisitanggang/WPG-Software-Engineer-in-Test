@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Access a product via search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>278abb7f-5972-416f-9460-ad7b0c649c72</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a46ddf7c-3605-4b48-8710-8f36239399df</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'58058'</defaultValue>
+      <description>Computers/Tablets &amp; Networking</description>
+      <id>a46ddf7c-3605-4b48-8710-8f36239399df</id>
+      <masked>false</masked>
+      <name>Category_ComputersTabletsNetwork</name>
+   </variable>
+</TestCaseEntity>

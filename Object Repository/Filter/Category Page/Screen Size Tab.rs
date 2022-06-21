@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Screen Size Tab</name>
+   <tag></tag>
+   <elementGuidId>69501390-e037-43d0-93bb-848509d8642d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s0-28_1-9-0-1[0]-0-0-6-5-4[0]-flyout']/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.brm__aspect-item.brm__aspect-item--applied > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>133d3430-d776-462a-abe3-6ee86d3257d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track</name>
+      <type>Main</type>
+      <value>{&quot;eventFamily&quot;:&quot;LST&quot;,&quot;eventAction&quot;:&quot;ACTN&quot;,&quot;actionKind&quot;:&quot;NAVSRC&quot;,&quot;operationId&quot;:&quot;2489527&quot;,&quot;flushImmediately&quot;:false,&quot;eventProperty&quot;:{&quot;moduledtl&quot;:&quot;mi%3A4118%7Ciid%3A1%7Cselected%3A0%7Cglobal%3A0%7CaspectURLParam%3AScreen%252520Size%7Cli%3A8173%7Cluid%3A43%7C&quot;,&quot;pageci&quot;:&quot;9e7a2039-3c76-4e62-a9ff-32c712b36532&quot;,&quot;parentrq&quot;:&quot;872d596c1810a7b8944652d0fff3ab04&quot;}}</value>
+      <webElementGuid>6497e624-e477-4297-b8f4-9a238c66e6b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_sp</name>
+      <type>Main</type>
+      <value>p2489527.m4118.c1</value>
+      <webElementGuid>873a9308-ec6a-491e-98c9-5a66f53e1e96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ebay.com/b/Cell-Phones-Smartphones/9355/bn_320094?LH_PrefLoc=3&amp;_udhi=1000000&amp;_udlo=100000&amp;rt=nc&amp;mag=1</value>
+      <webElementGuid>1bf688b0-6e72-43ed-b46b-27e9588d6cff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Screen Size: 4.0 - 4.4 in filter applied</value>
+      <webElementGuid>667cb1b8-02e0-4523-8b41-96aabd3b1483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s0-28_1-9-0-1[0]-0-0-6-5-4[0]-flyout&quot;)/div[@class=&quot;x-flyout__content flyout-notice flyout-notice--information flyout-notice--top-right&quot;]/ul[@class=&quot;brm__aspect-list&quot;]/li[@class=&quot;brm__aspect-item brm__aspect-item--applied&quot;]/a[1]</value>
+      <webElementGuid>466c2c95-71ff-4365-847c-f16aa6fdfdd8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s0-28_1-9-0-1[0]-0-0-6-5-4[0]-flyout']/div/ul/li/a</value>
+      <webElementGuid>bb90c8e4-e3d3-4e16-b8f6-d95e00266830</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.ebay.com/b/Cell-Phones-Smartphones/9355/bn_320094?LH_PrefLoc=3&amp;_udhi=1000000&amp;_udlo=100000&amp;rt=nc&amp;mag=1')]</value>
+      <webElementGuid>9f2d6e1e-e243-4b69-b124-828b290558b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/ul/li/div/div/ul/li/a</value>
+      <webElementGuid>d8e24748-7ee2-476f-9a04-6fc278a8daf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.ebay.com/b/Cell-Phones-Smartphones/9355/bn_320094?LH_PrefLoc=3&amp;_udhi=1000000&amp;_udlo=100000&amp;rt=nc&amp;mag=1' and (text() = 'Screen Size: 4.0 - 4.4 in filter applied' or . = 'Screen Size: 4.0 - 4.4 in filter applied')]</value>
+      <webElementGuid>9de2fde0-4683-4501-b458-8747ced2d4ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

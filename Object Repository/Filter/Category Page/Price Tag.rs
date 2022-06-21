@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Price Tag</name>
+   <tag></tag>
+   <elementGuidId>d6064fa2-dd1a-4fa2-8896-18c5aedda66a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s0-28_1-9-0-1[0]-0-0-6-5-4[0]-flyout']/div/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8f6af7d7-5745-438a-8270-84a16b104491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ebay.com/b/4-0-4-4-Inch-Cell-Phones-Smartphones/9355/bn_591691?LH_PrefLoc=3&amp;rt=nc&amp;mag=1</value>
+      <webElementGuid>280ec1f7-4c08-4e1b-ba6a-ec617b2694a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track</name>
+      <type>Main</type>
+      <value>{&quot;eventFamily&quot;:&quot;LST&quot;,&quot;eventAction&quot;:&quot;ACTN&quot;,&quot;actionKind&quot;:&quot;NAVSRC&quot;,&quot;actionKinds&quot;:[&quot;NAVSRC&quot;],&quot;operationId&quot;:&quot;2489527&quot;,&quot;flushImmediately&quot;:false,&quot;eventProperty&quot;:{&quot;moduledtl&quot;:&quot;mi%3A4118%7Ciid%3A1%7Cselected%3A0%7Cglobal%3A1%7Cli%3A8173%7Cluid%3A135%7C&quot;,&quot;pageci&quot;:&quot;9e7a2039-3c76-4e62-a9ff-32c712b36532&quot;,&quot;parentrq&quot;:&quot;872d596c1810a7b8944652d0fff3ab04&quot;}}</value>
+      <webElementGuid>83bab1e9-1992-4a3d-acef-ea1ad3eba1ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>_sp</name>
+      <type>Main</type>
+      <value>p2489527.m4118.c1</value>
+      <webElementGuid>7e72d0cc-bd2b-4c25-abb7-3a086ea8feb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Price: $100,000.00 to $1,000,000.00 filter applied</value>
+      <webElementGuid>30a3fc1d-7de0-456d-88f1-82696fffdecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s0-28_1-9-0-1[0]-0-0-6-5-4[0]-flyout&quot;)/div[@class=&quot;x-flyout__content flyout-notice flyout-notice--information flyout-notice--top-right&quot;]/ul[@class=&quot;brm__aspect-list&quot;]/li[@class=&quot;brm__aspect-item brm__aspect-item--applied&quot;]/a[1]</value>
+      <webElementGuid>3297b09d-9b2b-424a-8061-c9f7fb0dd86e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s0-28_1-9-0-1[0]-0-0-6-5-4[0]-flyout']/div/ul/li[2]/a</value>
+      <webElementGuid>9ebaefee-ddee-4836-ba02-25fd7ae6bebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='filter applied'])[1]/following::a[1]</value>
+      <webElementGuid>e6d4c55c-30e8-4bb8-913e-c334d8219bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.ebay.com/b/4-0-4-4-Inch-Cell-Phones-Smartphones/9355/bn_591691?LH_PrefLoc=3&amp;rt=nc&amp;mag=1')]</value>
+      <webElementGuid>d78a56a5-599b-4a8a-8916-d9c16a475591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/ul/li/div/div/ul/li[2]/a</value>
+      <webElementGuid>9732f23c-3eb3-4658-88b9-b352081fa6db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.ebay.com/b/4-0-4-4-Inch-Cell-Phones-Smartphones/9355/bn_591691?LH_PrefLoc=3&amp;rt=nc&amp;mag=1' and (text() = 'Price: $100,000.00 to $1,000,000.00 filter applied' or . = 'Price: $100,000.00 to $1,000,000.00 filter applied')]</value>
+      <webElementGuid>2c137a13-5bfe-4534-8f16-d682ba110d5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

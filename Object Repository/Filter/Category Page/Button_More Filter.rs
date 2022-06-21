@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_More Filter</name>
+   <tag></tag>
+   <elementGuidId>a23a64b3-6c12-4e6e-b808-ff24d3f1aed7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>section.b-module.b-carousel.b-guidance--text.b-display--landscape > div.b-carousel__header.sameline > div.b-carousel__seeall > button.btn.btn--small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0f698a32-e3f5-4827-9f3a-d4cdc223903d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-marko</name>
+      <type>Main</type>
+      <value>{&quot;onclick&quot;:&quot;handleSeeAllBtn s0-28-9-0-1[0]-0-1[1]-0 false&quot;}</value>
+      <webElementGuid>54c256b9-bad8-4723-b5fd-a54038f51854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b7f98ed4-985b-4561-bc87-37f0aa782cfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--small</value>
+      <webElementGuid>20da3f24-69ea-437d-8696-3b7c34f2c795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-see-all</name>
+      <type>Main</type>
+      <value>{&quot;_type&quot;:&quot;TextualDisplay&quot;,&quot;textSpans&quot;:[{&quot;_type&quot;:&quot;TextSpan&quot;,&quot;text&quot;:&quot;See All&quot;,&quot;accessibilityText&quot;:&quot;Shop by Network&quot;}],&quot;action&quot;:{&quot;_type&quot;:&quot;Action&quot;,&quot;type&quot;:&quot;OPERATION&quot;,&quot;name&quot;:&quot;SHOW_OVERLAY&quot;,&quot;params&quot;:{&quot;_fsrp&quot;:&quot;0&quot;,&quot;rt&quot;:&quot;nc&quot;,&quot;pageci&quot;:&quot;f6c54fb1-5741-48c5-90d0-1f2d8bf21482&quot;,&quot;_sacat&quot;:&quot;9355&quot;,&quot;_aspectname&quot;:&quot;aspect-Network&quot;,&quot;modules&quot;:&quot;SEARCH_REFINEMENTS_MODEL_V2:fa&quot;},&quot;trackingList&quot;:[{&quot;eventFamily&quot;:&quot;LST&quot;,&quot;eventAction&quot;:&quot;ACTN&quot;,&quot;actionKind&quot;:&quot;SHOWDIALOG&quot;,&quot;operationId&quot;:&quot;2489527&quot;,&quot;flushImmediately&quot;:false,&quot;eventProperty&quot;:{&quot;moduledtl&quot;:&quot;mi%3A4118%7Ciid%3A1%7CNot%20Available&quot;,&quot;pageci&quot;:&quot;f6c54fb1-5741-48c5-90d0-1f2d8bf21482&quot;,&quot;parentrq&quot;:&quot;871d74e31810ab8c9271ce42fff5250c&quot;}}],&quot;URL&quot;:&quot;https://www.ebay.com/b/Cell-Phones-Smartphones/9355?rt=nc&quot;},&quot;isLarge&quot;:true}</value>
+      <webElementGuid>91cf1ef2-1e74-40a5-9000-47edc50db8fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-track</name>
+      <type>Main</type>
+      <value>{&quot;eventFamily&quot;:&quot;LST&quot;,&quot;eventAction&quot;:&quot;ACTN&quot;,&quot;actionKind&quot;:&quot;SHOWDIALOG&quot;,&quot;operationId&quot;:&quot;2489527&quot;,&quot;flushImmediately&quot;:false,&quot;eventProperty&quot;:{&quot;moduledtl&quot;:&quot;mi%3A4118%7Ciid%3A1%7CNot%20Available&quot;,&quot;pageci&quot;:&quot;f6c54fb1-5741-48c5-90d0-1f2d8bf21482&quot;,&quot;parentrq&quot;:&quot;871d74e31810ab8c9271ce42fff5250c&quot;}}</value>
+      <webElementGuid>cd222f77-12f8-42bb-b26d-a38b0f551a8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>See All- Shop by Network</value>
+      <webElementGuid>5a02d256-5280-43ab-b2f0-6a71c953ab65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[1]/section[@class=&quot;b-module b-carousel b-guidance--text b-display--landscape&quot;]/div[@class=&quot;b-carousel__header  sameline&quot;]/div[@class=&quot;b-carousel__seeall&quot;]/button[@class=&quot;btn btn--small&quot;]</value>
+      <webElementGuid>3564d47e-0ab3-48b3-a6b1-6a7e2615b6b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>206742e0-bfde-4b35-a5a1-238a0c17fa10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainContent']/div/section[2]/div/div[2]/button</value>
+      <webElementGuid>8364d8a3-df85-4657-afdd-dab785e88512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop by Network'])[1]/following::button[1]</value>
+      <webElementGuid>71a36fb6-b402-465c-9f8c-0f0bf2d9e84a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Shop by Brand'])[1]/following::button[3]</value>
+      <webElementGuid>4e8e7b6b-5492-4424-bc5e-9c22d8a24c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div[2]/button</value>
+      <webElementGuid>633c2780-43bc-4dcc-af55-ae07b6941c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'See All- Shop by Network' or . = 'See All- Shop by Network')]</value>
+      <webElementGuid>3d1bd67f-3067-4bdf-861d-b8ea979d601b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
